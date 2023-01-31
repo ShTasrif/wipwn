@@ -8,6 +8,7 @@ pkg update && pkg upgrade -y
 pkg install root-repo -y
 pkg install git tsu python termux-api wpa-supplicant pixiewps iw -y
 git clone https://github.com/ShTasrif/wipwn
+pip install requests
 cd wipwn
 chmod +x wipwn.py
 ```
