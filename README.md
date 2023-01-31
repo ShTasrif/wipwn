@@ -17,6 +17,7 @@ chmod +x wipwn.py
 #### Note: 
 + **First turn off your Wifi.**
 + **Turn on Hotspot.**
++ **Turn on Location.**
 - Show avaliable networks and start Pixie Dust attack on a specified network.
 - `sudo python wipwn.py -i wlan0 -K`
 - - Start Pixie Dust attack on a specified BSSID:
