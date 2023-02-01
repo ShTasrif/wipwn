@@ -27,3 +27,5 @@ chmod +x wipwn.py
 - `sudo python wipwn.py -i wlan0 -b 50:0F:F5:B0:08:05 -B -p 1234`
 ### Troubleshooting
 **"Device or resource busy (-16)" - Turn on Wifi and Then Turn off Wifi.**
+#### Modify History : 
+rofl0r => Biri_B@B@ => Mohammad_Alamin (Toxinum) => SH TASRIF (CYBER SH)
