@@ -14,6 +14,11 @@ pip install requests
 cd wipwn
 chmod +x wipwn.py
 ```
+### Single cmd Setup
+```bash
+curl https://raw.githubusercontent.com/ShTasrif/wipwn/main/wipwn --output /data/data/com.termux/files/usr/bin/wipwn
+chmod +x /data/data/com.termux/files/usr/bin/wipwn
+```
 #### Help : `sudo python wipwn.py --help`
 #### Example : `sudo python wipwn.py -i wlan0 -K`
 
