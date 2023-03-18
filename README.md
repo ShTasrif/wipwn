@@ -36,3 +36,18 @@ chmod +x /data/data/com.termux/files/usr/bin/wipwn
 **"Device or resource busy (-16)" - Turn on Wifi and Then Turn off Wifi.**
 #### Modify History : 
 rofl0r => Biri_B@B@ => Mohammad_Alamin (Toxinum) => SH TASRIF (CYBER SH)
+<br>
+<h3>Visitors :</h3>
+<br>
+<img src="https://profile-counter.glitch.me/ShTasrif/count.svg" alt="Visitors">
+
+<div align="center">
+
+<h3>━━━━ Connect with me ━━━━</h3>
+
+<a href="https://fb.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TOXIC-VIRUS" height="30" width="40" /></a>
+<a href="https://twitter.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cybershbd" height="30" width="40" /></a>
+<a href="https://fb.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohammad Alamin" height="30" width="40" /></a>
+<a href="https://instagram.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akxvau" height="30" width="40" /></a>
+
+</div>
