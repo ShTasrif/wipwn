@@ -21,7 +21,10 @@ chmod +x /data/data/com.termux/files/usr/bin/wipwn
 ```
 #### Help : `sudo python wipwn.py --help`
 #### Example : `sudo python wipwn.py -i wlan0 -K`
-
+### Shortcut : wipwn
+```bash
+cd $PREFIX/bin && echo 'cd $HOME ; cd wipwn ; sudo python wipwn.py -i wlan0 -K' > wipwn && chmod +x wipwn
+```
 #### Note: 
 + **First turn off your Wifi.**
 + **Turn on Hotspot.**
